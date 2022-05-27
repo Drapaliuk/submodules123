@@ -1,2 +1,2 @@
-const helloSubMOdules = 121221
-'some update'
+const helloWorld = 'hello world'
+console.log(helloWorld)
